@@ -1,5 +1,5 @@
-# streaming-02-multiple-processes
-Name: Habtom Woldu
+# streaming-02-multiple-processes Habtom Woldu 
+
 
 > Multiple processes accessing a shared resource concurrently
 
